@@ -1,0 +1,20 @@
+#Movies {
+    height: 150%;
+    width: 130%;
+    margin: 30px;
+    position: relative;
+    background: rgb(131, 58, 180);
+    background: linear-gradient(0deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+}
+
+.PROJECT_MOVIE {
+    list-style: none;
+    font-family: inherit;
+    position: absolute;
+    z-index: 100;
+}
+
+.Movies {
+    float: left;
+    margin: 20px;
+}
